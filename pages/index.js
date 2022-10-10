@@ -8,6 +8,7 @@ export default function Home() {
         <title>Food ordering App</title>
         <meta name="description" content="Best ordering app in Sri Lanka" />
         <link rel="icon" href="/favicon.ico" />
+        
       </Head>
       home page
     </div>

@@ -1,0 +1,48 @@
+[
+    {
+        "id" : 1,
+        "item" : "Noldes Fries",
+        "quantity" : "4",
+        "totel" :{
+            "pitem": "700",
+            "price" : "2800"
+        }
+    },
+    {
+        "id" : 2,
+        "item" : "Set Menu Fride Rice",
+        "quantity" : "1",
+        "totel" :{
+            "pitem": "650",
+            "price" : "650"
+        }
+    },
+    {
+        "id" : 3,
+        "item" : "Pepsi 500 Ml",
+        "quantity" : "2",
+        "totel" :{
+            "pitem": "150",
+            "price" : "300"
+        }
+    },
+    {
+        "id" : 4,
+        "item" : "Yoguet",
+        "quantity" : "4",
+        "totel" :{
+            "pitem": "100",
+            "price" : "400"
+        }
+    },
+    {
+        "id" : 5,
+        "item" : "Water 500 Ml",
+        "quantity" : "4",
+        "totel" :{
+            "pitem": "100",
+            "price" : "200"
+        }
+    }
+    
+]
