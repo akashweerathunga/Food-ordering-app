@@ -1,23 +1,47 @@
 .container{
-    height: 100px;
+    height: 70px;
     padding: 0px 50px;
-    background-color: antiquewhite;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    box-shadow: inset;
+    border-bottom: 2px solid black;
+    flex-wrap: wrap;
+    
+   
+
 }
 
 .item{
     flex: 1;
     display: flex;
     align-items: center;
+    font-weight: 500;
+   
+     
+ 
 }
 
 .item:nth-child(3){
     flex: 3;
+   
+
+   
+   
+    
 }
 
 .item:first-child{
     font-size: 20px;
     font-weight: 500;
+    
+    
+}
+
+.cname{
+    cursor: pointer;
+}
+
+.pname{
+    cursor: pointer;
 }
