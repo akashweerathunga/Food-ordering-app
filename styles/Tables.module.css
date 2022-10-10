@@ -1,0 +1,66 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.left{
+    width: 60%;
+    float: left;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.right{
+    width: 40%;
+    border-left: 2px solid black;
+    border-style: none none none outset ;
+    float: left;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.heading{
+    padding: 5% 0% 0% 5%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.name{
+    padding: 5%;
+    font-size: 12px;
+    font-weight: 600;
+    padding-top: 3px;
+    /* cursor: pointer; */
+   
+}
+
+.tname{
+    padding: 5%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sname{
+    font-size: 10px;
+    padding-top: 2%;
+    font-weight: 500;
+}
+
+.lname{
+    padding-top: 1%;
+    font-size: 15px;
+    color: blue;
+    cursor: pointer;
+}
+.aname{
+    cursor: pointer;
+}

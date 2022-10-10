@@ -1,5 +1,6 @@
 import Footer from "./Footer"
 import Navbar from "./Navbar"
+import Tables from "./Tables"
 
 const Layout = ({Children}) => {
   return (
@@ -7,6 +8,7 @@ const Layout = ({Children}) => {
         <Navbar/>
         {Children}
         <Footer/>
+        <Tables/>
     </>
   )
 }
