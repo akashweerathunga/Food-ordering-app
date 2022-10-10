@@ -12,7 +12,6 @@ export default function Home() {
         <meta name="description" content="Best ordering app in Sri Lanka" />
         <link rel="icon" href="/favicon.ico" />
         
-        home
       </Head>
     </div>
   );
